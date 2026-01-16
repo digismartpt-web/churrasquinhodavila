@@ -4,10 +4,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#b91c1c', // Rouge Brique
-        secondary: '#991b1b', // Rouge Sombre
-        bordeaux: '#7f1d1d',  // Rouge Bordeaux Moyen (Juste Milieu)
-        accent: '#fff7ed', // Crème / Beige
+        primary: '#1f2937', // Gris foncé élégant
+        secondary: '#374151', // Gris moyen
+        bordeaux: '#111827',  // Noir/Gris très foncé pour accents
+        accent: '#f3f4f6', // Gris très clair
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif']
